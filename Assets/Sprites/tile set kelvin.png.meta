@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: 0df4083c1e0e6f247968040cbfbe9779
+timeCreated: 1517089706
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tile set kelvin_0
+    21300002: tile set kelvin_1
+    21300004: tile set kelvin_2
+    21300006: tile set kelvin_3
+    21300008: tile set kelvin_4
+    21300010: tile set kelvin_5
+    21300012: tile set kelvin_6
+    21300014: tile set kelvin_7
+    21300016: tile set kelvin_8
+    21300018: tile set kelvin_9
+    21300020: tile set kelvin_10
+    21300022: tile set kelvin_11
+    21300024: tile set kelvin_12
+    21300026: tile set kelvin_13
+    21300028: tile set kelvin_14
+    21300030: tile set kelvin_15
+    21300032: tile set kelvin_16
+    21300034: tile set kelvin_17
+    21300036: tile set kelvin_18
+    21300038: tile set kelvin_19
+    21300040: tile set kelvin_20
+    21300042: tile set kelvin_21
+    21300044: tile set kelvin_22
+    21300046: tile set kelvin_23
+    21300048: tile set kelvin_24
+    21300050: tile set kelvin_25
+    21300052: tile set kelvin_26
+    21300054: tile set kelvin_27
+    21300056: tile set kelvin_28
+    21300058: tile set kelvin_29
+    21300060: tile set kelvin_30
+    21300062: tile set kelvin_31
+    21300064: tile set kelvin_32
+    21300066: tile set kelvin_33
+    21300068: tile set kelvin_34
+    21300070: tile set kelvin_35
+    21300072: tile set kelvin_36
+    21300074: tile set kelvin_37
+    21300076: tile set kelvin_38
+    21300078: tile set kelvin_39
+    21300080: tile set kelvin_40
+    21300082: tile set kelvin_41
+    21300084: tile set kelvin_42
+    21300086: tile set kelvin_43
+    21300088: tile set kelvin_44
+    21300090: tile set kelvin_45
+    21300092: tile set kelvin_46
+    21300094: tile set kelvin_47
+    21300096: tile set kelvin_48
+    21300098: tile set kelvin_49
+    21300100: tile set kelvin_50
+    21300102: tile set kelvin_51
+    21300104: tile set kelvin_52
+    21300106: tile set kelvin_53
+    21300108: tile set kelvin_54
+    21300110: tile set kelvin_55
+    21300112: tile set kelvin_56
+    21300114: tile set kelvin_57
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile set kelvin_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 904
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 904
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 904
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 902
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 902
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 902
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 902
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 902
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 847
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 847
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 847
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 844
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 852
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 852
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_14
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 852
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 789
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 789
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 789
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 809
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_19
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 787
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 802
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 802
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 802
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 724
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 724
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 724
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 729
+        width: 122
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 569
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 569
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_39
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 606
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 598
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_43
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 596
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 504
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_45
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 469
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 469
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 394
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 397
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_50
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 399
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_51
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 399
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 174
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 174
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_54
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 177
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 94
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 97
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile set kelvin_57
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 99
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
