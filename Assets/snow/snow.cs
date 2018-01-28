@@ -16,7 +16,7 @@ public class snow : MonoBehaviour {
 
 	void FixedUpdate () {
 		if (rb.transform.position.y <= rb_point.transform.position.y) {
-			Debug.Log ("Entro");
+			//Debug.Log ("Entro");
 			this.destroy ();
 		}
 	}

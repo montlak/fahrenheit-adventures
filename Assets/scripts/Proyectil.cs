@@ -15,7 +15,7 @@ public class Proyectil : MonoBehaviour {
 
 	void OnTriggerEnter2D (Collider2D este) {
 		//Destroy (this.gameObject);
-		if (este.gameObject.layer != 9) {
+		if (este.gameObject.layer != 9 && este.gameObject.layer != 11) {
 			Destroy (this.gameObject);
 		}
 	}
